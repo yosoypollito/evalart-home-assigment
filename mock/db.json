@@ -1,0 +1,137 @@
+{
+  "features": [
+    {
+      "icon": "material-symbols:search",
+      "title": "Test library",
+      "description": "Evalart includes a large number of tests that can be used in your selection processes. These libraries include programming tests, aptitude tests, knowledge tests, and psychometric tests. The library is constantly updated and expanded.",
+      "keywords": [
+        "test",
+        "testing",
+        "library"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/test-library/"
+    },
+    {
+      "icon": "ph:code-bold",
+      "title": "Support actual coding questions",
+      "description": "Evalart provides programming tests where candidates must write a program in pseudo-code or in a language such as Java or Python. Evalart automatically evaluates the code, validates the results, and delivers a detailed report, which allows you to make the best decision and hire the most skilled programmer.",
+      "keywords": [
+        "support",
+        "coding",
+        "questions",
+        "programming",
+        "candidates"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/supports-actual-coding-questions/"
+    },
+    {
+      "icon": "mdi:head-cog",
+      "title": "Multiple test types",
+      "description": "Evalart allows you to use (and also build) various types of questionnaires. Everything from practical programming questions, to intelligence and knowledge tests, and even to psychometric exams such as DISC tests.",
+      "keywords": [
+        "multiple",
+        "test",
+        "testing"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/multiple-test-types/"
+    },
+    {
+      "icon": "mdi:format-float-left",
+      "title": "Different question formats",
+      "description": "Evalart allows programming tests where candidates must write a program in pseudo-code or in a language such as Java or Python. The code is automatically evaluated by Evalart, validating the results and delivering a detailed report that allows you to make the best decision and hire the most skilled programmer.",
+      "keywords": [
+        "questions",
+        "questionnaires",
+        "different",
+        "formats"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/different-question-formats/"
+    },
+    {
+      "icon": "fluent-mdl2:test-plan",
+      "title": "Create your own tests",
+      "description": "Evalart has a powerful Questionnaire Builder that lets you create new versions of existing questionnaires or even create new ones completely from scratch, which allows you to customize Evalart to fit your specific needs.",
+      "keywords": [
+        "testing",
+        "questionnaire",
+        "builder"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/create-your-own-tests/"
+    },
+    {
+      "icon": "carbon:report-data",
+      "title": "Detailed reports",
+      "description": "The Evalart questionnaires produce detailed reports of the results obtained by each applicant. These reports indicate the score obtained (total and/or by category), the applicant's classification according to their results (for example \"Advanced Java Programmer\"), and also include bar graphs for easy visualization as well as details for each question.",
+      "keywords": [
+        "detailed",
+        "reports"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/comprehensive-reporting/"
+    },
+    {
+      "icon": "material-symbols:screen-search-desktop",
+      "title": "Fraud detection",
+      "description": "Evalart has a sophisticated fraud detection system that can identify if the candidate has committed any kind of illegal action during the test.",
+      "keywords": [
+        "fraud",
+        "detection"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/fraud-detection/"
+    },
+    {
+      "icon": "material-symbols:language",
+      "title": "Multi language",
+      "description": "The admin user interface, as well as the questionnaire interface used by candidates, supports multiple languages (currently English and Spanish). Questionnaires and questions can also be found in these two languages.",
+      "keywords": [
+        "multi",
+        "language"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/multi-language/"
+    },
+    {
+      "icon": "gridicons:customize",
+      "title": "Customize it",
+      "description": "Evalart is highly customizable. Questionnaires, emails, questions, reports ... all of these have multiple options and parameters that allow them to be customized according to the user's needs.",
+      "keywords": [
+        "customize",
+        "it",
+        "options",
+        "parameters"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/customize-it/"
+    },
+    {
+      "icon": "carbon:report-data",
+      "title": "Detailed reports",
+      "description": "Each Evalart test, both psychometric and other types of tests, generate detailed reports that allow you to evaluate and pre-filter the candidates for your selection processes. These reports are configurable, so they can be adapted and customized to your needs. No more manually correcting and transcribing your selection tests, with Evalart it only takes a couple of clicks to send your tests and the results will be available in the system as the candidates answer the questionnaires.",
+      "keywords": [
+        "detailed",
+        "reports"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/reportes-detallados/"
+    },
+    {
+      "icon": "bx:webcam",
+      "title": "Online Proctoring",
+      "description": "Evalart allows you to optionally monitor candidates through their webcam. State or the art Artificial Intelligence analyses the pictures and warns you of any suspicious activity, like a different person taking the test or more than one person on screen.",
+      "keywords": [
+        "online",
+        "proctoring",
+        "monitoring"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/online-proctoring/"
+    },
+    {
+      "icon": "material-symbols:settings",
+      "title": "API",
+      "description": "Evalart provides an API that allows you to connect your applications with Evalart to take tests, retrieve results and more. API documentation, online support and a testing environment are available to help you with your integration.",
+      "keywords": [
+        "api",
+        "documentation",
+        "support",
+        "testing"
+      ],
+      "relationship": "https://evalart.com/en/blog/all_pages_post/api/"
+    }
+  ]
+}
