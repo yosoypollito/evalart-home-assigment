@@ -19,7 +19,7 @@ export default function Features() {
         Features
       </SectionTitle>
 
-      <div className="flex justify-center">
+      <div className="flex justify-center p-4">
         <div className="flex flex-col gap-1">
           <label htmlFor="filter-feature">
             Search a feature
@@ -30,7 +30,7 @@ export default function Features() {
           </p>
         </div>
       </div>
-      <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+      <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 p-4">
         {loading ? <Loading /> :
           features.map(feature => <FeatureItem key={feature.id} {...feature} />)
         }
