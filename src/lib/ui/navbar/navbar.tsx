@@ -20,7 +20,7 @@ export default function NavBar() {
         <section className="relative grid grid-cols-[1fr_min-content] md:flex gap-2 justify-center md:justify-between items-center w-full p-2 md:p-4 max-w-content-width m-auto">
 
           <div>
-            <img src={logo} className="w-48 max-w-full max-h-full" />
+            <img src={logo} className="w-48 max-w-full max-h-full" title="evalart logo" />
           </div>
 
           <button type='button' className="p-1 bg-evalart-blue self-center rounded-md md:hidden" onClick={toggleMenu}>
