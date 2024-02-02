@@ -66,7 +66,7 @@ export default function Footer() {
       <div className="max-w-content-width m-auto grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 p-4 sm:p-6 ">
 
 
-        <div className="col-span-2 md:col-span-1 md:row-span-2 flex items-center justify-center">
+        <div className="col-span-1 sm:col-span-2 md:col-span-1 md:row-span-2 flex items-center justify-center">
           <img src={logo} className="w-48" alt="evalart logo" />
         </div>
 
