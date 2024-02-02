@@ -2,6 +2,7 @@
 
 - [Evalart Home Assigment](#evalart-home-assigment)
 	- [Production](#production)
+		- [Here i leave the notion table with the tasks of this project NOTION](#here-i-leave-the-notion-table-with-the-tasks-of-this-project-notion)
 	- [Technologies](#technologies)
 	- [Usage (Instructions for setting up and running the mock-up.)](#usage-instructions-for-setting-up-and-running-the-mock-up)
 		- [Install and run development server and JSON-Server MOCK](#install-and-run-development-server-and-json-server-mock)
@@ -17,6 +18,8 @@
 
 - Runs on vercel hosting at [Features - Evalart (evalart-home-assigment.vercel.app)](https://evalart-home-assigment.vercel.app/)
 - Uses [My JSON Server](https://my-json-server.typicode.com/) as the JSON-Server mockup
+
+### Here i leave the notion table with the tasks of this project [NOTION](https://rightful-bromine-8c7.notion.site/2ca366e77cd54a8080fe47581091858c?v=de708a22c55a4a8481c18aeffa5e1830&pvs=4)
 
 ## Technologies
 
