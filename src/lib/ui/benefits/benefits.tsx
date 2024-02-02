@@ -1,12 +1,13 @@
+import Section, { SectionTitle } from "../components/sections";
 import BenefitsItem from "./benefits-item";
 
 export default function Benefits() {
   return (
-    <section className="flex flex-col gap-10">
+    <Section>
       <header>
-        <h2 className='text-2xl font-bold text-evalart-blue text-center'>
+        <SectionTitle>
           Benefits
-        </h2>
+        </SectionTitle>
       </header>
 
       <main className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4 sm:gap-0">
@@ -19,6 +20,6 @@ export default function Benefits() {
           title="Follow-Up And Records"
           description="At any time you can view the status of all your evaluation processes. How many people have responded, who has the best score... all the information you need is only a click away. The information is automatically stored in Evalart, so you can search for candidates from previous processes for your new processes even years later." />
       </main>
-    </section>
+    </Section>
   )
 }
