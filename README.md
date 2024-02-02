@@ -1,5 +1,14 @@
 # Evalart Home Assigment
 
+[Production Information](#production)
+[Technologies](#technologies)
+[Usage](#usage-instructions-for-setting-up-and-running-the-mock-up)
+[Design IDEAS Design IDEAS (An overview of your design choices and any assumptions made.)](#design-ideas-an-overview-of-your-design-choices-and-any-assumptions-made)
+[Choices / Assumptions](#choices--assumptions)
+[Mockup](#mockup)
+[Future (Reflections on what additional features or improvements you would have made if you had more time.)](#future-reflections-on-what-additional-features-or-improvements-you-would-have-made-if-you-had-more-time)
+[Improvements for this project](#improvements-for-this-project)
+
 ## Production
 
 - Runs on vercel hosting at [Features - Evalart (evalart-home-assigment.vercel.app)](https://evalart-home-assigment.vercel.app/)
@@ -51,8 +60,8 @@ pnpm run mock:dev
 
 ```bash
 - src
-	|- components # All the reusable components such as Card, Link, Section ...
-	|- [name] # each folder is a collection of (in this case) sections of the feature page.
+ |- components # All the reusable components such as Card, Link, Section ...
+ |- [name] # each folder is a collection of (in this case) sections of the feature page.
 ```
 
 ---
@@ -112,6 +121,6 @@ Users can select all the features they know about with their description and eve
 
 • Improve the benefits section to make it more eye-catching.
 
-## Improvements for this project:
+## Improvements for this project
 
 Add constants with the links used so that they can be reused in new pages/components.
