@@ -72,6 +72,8 @@ pnpm run mock:dev
 
 I wanted to preserve the structure of the page, but focus on improving the space, readability, and user experience.
 
+Adding a small new section about why choose us, where I would also like to add a small demo next to it.
+
 Placing texts with better contrast and maintaining a suitable size for reading.
 
 Adding the possibility to search for "Features" through an input, taking into account possible matches in title, description, and some keywords added from the mock backend.
