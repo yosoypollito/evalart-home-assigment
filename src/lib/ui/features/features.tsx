@@ -24,7 +24,7 @@ export default function Features() {
           <label htmlFor="filter-feature">
             Search a feature
           </label>
-          <input onInput={(e) => handleFilter(e.currentTarget.value)} className=" w-80 border-2 border-evalart-blue/80 focus:border-evalart-blue outline-none rounded-lg py-2 px-4" placeholder="Put what feature you need" />
+          <input onInput={(e) => handleFilter(e.currentTarget.value)} className=" w-72 border-2 border-evalart-blue/80 focus:border-evalart-blue outline-none rounded-lg py-2 px-4" placeholder="Put what feature you need" />
           <p className="text-xs">
             We will look on the title, description and keywords.
           </p>
