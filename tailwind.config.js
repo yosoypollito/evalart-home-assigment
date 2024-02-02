@@ -11,10 +11,10 @@ export default {
         "evalart-orange": "#eca215"
       },
       width: {
-        "content-width": "1024px"
+        "content-width": "1280px"
       },
       maxWidth: {
-        "content-width": "1024px"
+        "content-width": "1280px"
       }
     },
   },
