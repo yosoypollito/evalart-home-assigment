@@ -1,13 +1,17 @@
 # Evalart Home Assigment
 
-[Production Information](#production)
-[Technologies](#technologies)
-[Usage](#usage-instructions-for-setting-up-and-running-the-mock-up)
-[Design IDEAS Design IDEAS (An overview of your design choices and any assumptions made.)](#design-ideas-an-overview-of-your-design-choices-and-any-assumptions-made)
-[Choices / Assumptions](#choices--assumptions)
-[Mockup](#mockup)
-[Future (Reflections on what additional features or improvements you would have made if you had more time.)](#future-reflections-on-what-additional-features-or-improvements-you-would-have-made-if-you-had-more-time)
-[Improvements for this project](#improvements-for-this-project)
+- [Evalart Home Assigment](#evalart-home-assigment)
+	- [Production](#production)
+	- [Technologies](#technologies)
+	- [Usage (Instructions for setting up and running the mock-up.)](#usage-instructions-for-setting-up-and-running-the-mock-up)
+		- [Install and run development server and JSON-Server MOCK](#install-and-run-development-server-and-json-server-mock)
+	- [Design IDEAS (An overview of your design choices and any assumptions made.)](#design-ideas-an-overview-of-your-design-choices-and-any-assumptions-made)
+	- [Just to know.](#just-to-know)
+	- [Choices / Assumptions](#choices--assumptions)
+		- [Folder Structure](#folder-structure)
+	- [Mockup](#mockup)
+	- [Future (Reflections on what additional features or improvements you would have made if you had more time.)](#future-reflections-on-what-additional-features-or-improvements-you-would-have-made-if-you-had-more-time)
+	- [Improvements for this project](#improvements-for-this-project)
 
 ## Production
 
