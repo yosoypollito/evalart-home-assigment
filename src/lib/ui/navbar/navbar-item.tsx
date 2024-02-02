@@ -12,7 +12,6 @@ export default function NavBarItem(props: NavBarItem) {
   return (
     <a className={twMerge("font-semibold py-0.5 px-2 hover:bg-evalart-blue hover:text-white rounded-md transition-all capitalize",
       active && "bg-evalart-blue text-white")} {...props}>
-      {active}
       {children}
     </a>
   )
