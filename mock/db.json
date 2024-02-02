@@ -103,7 +103,7 @@
     {
       "icon": "carbon:report-data",
       "title": "Detailed reports",
-      "description": "Each Evalart test, both psychometric and other types of tests, generate detailed reports that allow you to evaluate and pre-filter the candidates for your selection processes. These reports are configurable, so they can be adapted and customized to your needs. No more manually correcting and transcribing your selection tests, with Evalart it only takes a couple of clicks to send your tests and the results will be available in the system as the candidates answer the questionnaires.",
+      "description": "Each Evalart test, both psychometric and other types of tests, generate detailed reports that allow you to evaluate and pre-filter the candidates for your selection processes. These reports are configurable, so they can be adapted and customized to your needs.",
       "keywords": [
         "detailed",
         "reports"
