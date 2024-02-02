@@ -67,8 +67,12 @@ pnpm run mock:dev
 
 ```bash
 - src
- |- components # All the reusable components such as Card, Link, Section ...
- |- [name] # each folder is a collection of (in this case) sections of the feature page.
+ |- lib
+    |- hooks # React custom hooks
+    |- services # API services functions using our fetcher
+    |- ui
+      |- components # All the reusable components such as Card, Link, Section ...
+      |- [name] # each folder is a collection of (in this case) sections of the feature page.
 ```
 
 ---
